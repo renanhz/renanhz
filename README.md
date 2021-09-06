@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renanhz
 - 👀 I’m interested in Java (Spring, Spring Boot), Angular, React Native
-- 🌱 I’m currently learning Java Spring Boot
+- 🌱 I’m currently learning Java Spring Boot and Angular
 - 📫 How to reach me renan.stos077@gmail.com
 
 <!---
