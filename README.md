@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @renanhz
 - 👀 I’m interested in Java (Spring, Spring Boot), Javascript, Angular
-- 🌱 I’m currently learning Vanilla JS
-- 📫 How to reach me renanpereirasant.dev@gmail.com
+- 🌱 I’m currently deepen my knowledge in Spring Framework
+- 📫 How to reach me: renanpereirasant.dev@gmail.com
 
 <!---
 renanhz/renanhz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
