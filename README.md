@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @renanhz
 - 👀 I’m interested in Java (Spring, Spring Boot), Javascript, Angular
-- 🌱 I’m currently deepen my knowledge in Spring Framework
+- 🌱 I’m currently deepening my knowledge in Spring Framework
 - 📫 How to reach me: renanpereirasant.dev@gmail.com
 
 <!---
